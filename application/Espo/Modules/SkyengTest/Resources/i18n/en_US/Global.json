@@ -1,0 +1,10 @@
+{
+	"scopeNames": {
+		"SkyengTest:HelloEmail": "SkyengTest:HelloEmail",
+		"HelloEmail": "HelloEmail"
+	},
+	"scopeNamesPlural": {
+		"SkyengTest:HelloEmail": "SkyengTest:HelloEmails",
+		"HelloEmail": "HelloEmail"
+	}
+}

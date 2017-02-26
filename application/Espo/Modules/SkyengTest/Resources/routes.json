@@ -1,0 +1,10 @@
+[
+  {
+    "route":"/SkyengTest/HelloEmail",
+    "method":"post",
+    "params":{
+        "controller":"HelloEmail",
+        "action":"index"
+    }
+  }
+]
